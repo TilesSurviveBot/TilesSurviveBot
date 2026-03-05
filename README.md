@@ -12,7 +12,7 @@
 
 ## Quick Links
 
-**Main Website:** [BoostBot.org](https://boostbot.org/) | [Download BoostBot](https://boostbot.org/download/) | [Tiles Survive Bot Page](https://tilessurvivebot.com/)
+**Main Website:** [BoostBot.org](https://boostbot.org/) | [Download BoostBot](https://boostbot.org/download/) | [Tiles Survive Bot Page](https://boostbot.org/tiles-survive-bot/)
 
 ---
 
@@ -157,7 +157,7 @@ Click "Start" and let Tiles Survive Bot handle the rest. You can:
 - **Limited Support** - Community support available
 - **You Manage the Bot** - Full control over your automation
 
-[View Full Pricing](https://tilessurvivebot.com/)
+[View Full Pricing](https://boostbot.org/tiles-survive-bot/)
 
 ---
 
@@ -208,7 +208,7 @@ Yes. If you purchase any premium plan and aren't satisfied, we offer a 24-hour m
 
 ### Contact
 - **Website:** [boostbot.org](https://boostbot.org/)
-- **Tiles Survive Bot Page:** [tilessurvivebot.com](https://tilessurvivebot.com/)
+- **Tiles Survive Bot Page:** [boostbot.org/tiles-survive-bot/](https://boostbot.org/tiles-survive-bot/)
 - **Download:** [boostbot.org/download/](https://boostbot.org/download/)
 
 ---
